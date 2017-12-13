@@ -1,1 +1,1 @@
-### Consul template with NGINX
+### Consul template with NGINX !
